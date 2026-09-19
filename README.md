@@ -6,4 +6,4 @@ Sistema web para la gestión de productos, inventario y ventas.
 Herramientas de Desarrollo
 
 ## Estado del proyecto
-APF1 - Primera versión en desarrollo.
+APF1 - Versión inicial del sistema completada.
